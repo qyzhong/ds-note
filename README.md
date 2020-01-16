@@ -1,4 +1,4 @@
-# Beat the shit out of data science interviews 
+# Beat the Shit Out of Data Science Interviews 
 
 Work-in-progress notes (with a crazy name) on data science, machine learning, causal inference and more. 
 
